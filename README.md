@@ -1,4 +1,6 @@
 # YourControls_COWS_DA42
+# Made for MSFS2020 and not validated for 2024
+
 PROFILE for the COWS DA42 profile to work with YourControls application and MSFS2020.
 If you find any bugs, please contact me on YourControls Discord: Dkgolfnut_Dennis
 
