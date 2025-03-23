@@ -6,7 +6,7 @@ If you find any bugs, please contact me on YourControls Discord: Dkgolfnut_Denni
 
 
 # KNOWN ISSUES:
- - Fuel Transfer locks (RED) rotating locks below throttle area are not manageable with YC do to B:Evnets needed
+ - Fuel Transfer locks (RED) rotating locks below throttle area are not manageable with YC do to B:Events needed
 
 # FIXES:
  - CANOPY Front and Rear logic added along with small windows
